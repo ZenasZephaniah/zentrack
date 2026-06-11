@@ -1,5 +1,3 @@
-# ZenTrack - Open Source Email Tracker for Firefox
-
 ## Features
 - **Real-Time Tracking:** Injects a 1x1 transparent tracking pixel to detect when an email is opened.
 - **Gmail DOM Integration:** Uses `MutationObserver` to natively blend into the Gmail Compose window.
